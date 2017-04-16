@@ -239,7 +239,7 @@ function create_config( )
     "time",
     "welcome"
     },
-    sudo_users = {144658773,114934518,94746365},--Sudo users
+    sudo_users = {338609756},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Sbss Bot V2 Beta
@@ -346,6 +346,7 @@ _________________________________________
 ليست سودوها :@Cia_00_07
 @sina7sk
 @amirho3in
+@yssssefffff		
 ]]
   }
   serialize_to_file(config, './data/config.lua')
